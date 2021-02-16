@@ -5,6 +5,12 @@ export const companies = [
 			alt: "1Password logo",
 			prominent: true,
 		},
+		{	
+			href: "https://codbel.com",
+			src: "organisations/codbel.png",
+			alt: "Codbel logo",
+			prominent: true,
+		},
 		{
 			href: "https://yellowpop.com",
 			src: "organisations/yellowpop.svg",
